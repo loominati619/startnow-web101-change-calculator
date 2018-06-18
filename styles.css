@@ -1,0 +1,39 @@
+body{
+
+    background-image: url("change.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }  
+
+  #h1-tag-title {
+        color: white;
+        text-align: center;
+  }
+
+ /*  #p id dollar{
+      color: white;
+      text-align: center;
+  }
+
+  #p id {
+      color: white;
+  }
+
+  #p id{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  } */
+ 
+
+ p {
+     color: white;
+ }
+
+ h1 {
+     color: white;
+ }
+
+ h3 {
+     color: white;
+ }
